@@ -1,0 +1,7 @@
+program: vm-test-sandbox
+entries:
+- work_request: WORK23
+  branch: work/WORK23
+  description: TEAM-C loyalty discount
+  target_release_date: '2025-09-15'
+  status: in-dev
