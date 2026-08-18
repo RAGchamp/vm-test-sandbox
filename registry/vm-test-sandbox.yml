@@ -5,3 +5,8 @@ entries:
   description: TEAM-C loyalty discount
   target_release_date: '2025-09-15'
   status: in-dev
+- work_request: WORK24
+  branch: work/WORK24
+  description: TEAM-B service fee change
+  target_release_date: '2025-09-30'
+  status: in-dev
